@@ -7,3 +7,4 @@
 - git commit -m "buraya yazdıgım seyler yaptıgım degisikliklerin acıklamasıdır"
 - git pull \karsıdaki dosyayı cekmek icin\
 - git push \karsıya localindeki dosyayı gondermek icin\
+test
